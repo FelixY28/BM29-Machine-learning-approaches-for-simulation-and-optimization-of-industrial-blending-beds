@@ -1,6 +1,6 @@
 Welcome to the GitHub repository for 'Machine learning approaches for simulation and optimisation of industrial blending beds', where you will find all the necessary resources to generate simulated datasets, train models, and perform optimization processes effectively. This repository is structured into two main sections: Environment Setup and Packages, and Simulation and Optimisation. Each section is designed to ensure that users can reproduce our research and extend the functionalities based on their specific requirements.
 
-<h2>Environment Setup and Packages:
+<h2>Environment Setup and Packages:<h2>
 
 This section includes detailed instructions and the necessary files to set up the environment and install the required packages to run the project code.
 
@@ -10,7 +10,7 @@ requirements-dev.txt: Lists all pre-packaged libraries and dependencies required
 BlendingSimulatorLibPython.cpp: Used in dataset generation, this file computes reclaimed_quality from input material_quality.
 Additional Python files such as bsl_blending_simulator.py, homogenization_problem.py, material_deposition.py, and reclaimed_material_evaluator.py are crucial for generating deposition data, and calculating target variables F1 and F2.
 
-<h2>Simulation and Optimisation:
+<h2>Simulation and Optimisation:<h2>
 
 This folder includes scripts for generating simulation data, training models, and conducting optimizations.
 
